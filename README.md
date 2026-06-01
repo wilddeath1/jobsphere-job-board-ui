@@ -92,7 +92,7 @@ This project was built to improve understanding of:
 - Mobile menu toggle
 - Dynamic job listings
 - Save/Unsave jobs
-- External job application links
+- External job applications links
 
 ---
 
