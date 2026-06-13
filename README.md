@@ -17,7 +17,7 @@ The project focuses on frontend architecture and user interface implementation r
 ## 🚀 Live Website
 
 🔗 **View Live Portfolio:**
-https://ayush-tyagi-gold.vercel.app/
+https://wilddeath1.github.io/jobsphere-job-board-ui/
 
 ---
 
