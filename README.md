@@ -1,5 +1,7 @@
 # JobSphere - Job Board UI Concept
 
+🔗 **Live Demo:** https://wilddeath1.github.io/jobsphere-job-board-ui/
+
 A responsive job board interface built with React and Vite.
 
 This project was created as a frontend learning project to practice reusable React components, dynamic rendering, state management, responsive navigation, and modern UI development.
@@ -11,13 +13,6 @@ This project was created as a frontend learning project to practice reusable Rea
 JobSphere is a fictional job board platform that displays job opportunities through reusable card components. All job listings are generated dynamically from a centralized data source and rendered using React's `.map()` method.
 
 The project focuses on frontend architecture and user interface implementation rather than backend functionality.
-
----
-
-## 🚀 Live Website
-
-🔗 **View Live Portfolio:**
-https://wilddeath1.github.io/jobsphere-job-board-ui/
 
 ---
 
@@ -99,7 +94,7 @@ This project was built to improve understanding of:
 - Mobile menu toggle
 - Dynamic job listings
 - Save/Unsave jobs
-- External job applications links
+- External job application links
 
 ---
 
@@ -107,7 +102,7 @@ This project was built to improve understanding of:
 
 This is a frontend UI concept and learning project.
 
-The job listings, salaries, and company information are used for demonstration purposes only and do not represent real job postings.
+The job listings, salaries, company names, and other information are used for demonstration purposes only and do not represent actual job postings.
 
 ---
 
@@ -123,4 +118,4 @@ The job listings, salaries, and company information are used for demonstration p
 
 ---
 
-Built as part of a React learning journey focused on modern frontend development and component-based architecture.
+Built as part of a React learning journey focused on modern frontend development, responsive design, and component-based architecture.
